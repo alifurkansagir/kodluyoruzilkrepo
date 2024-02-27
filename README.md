@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
  Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Eğitimi kapsamında açtığım ilk repo
 
- ![github](kodluyoruz1.png))
+ ![github](kodluyoruz1.png)
 
  ## Installation
  
